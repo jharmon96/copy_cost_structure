@@ -1,0 +1,6 @@
+cost_structure,cost_structure_key,cost_element,cost_element_key,target_rate,provisional_rate,actual_rate,fiscal_year,fiscal_year_key
+USAID28200 - CN-282-00,16,USNFRINGE,1,0,0,0,,5
+USAID28200 - CN-282-00,16,CCNFRINGE,1,40,40,40,,5
+USAID28200 - CN-282-00,16,OVERHEAD,1,0,0,0,,5
+USAID28200 - CN-282-00,16,G&A,1,0,0,0,,5
+USAID28200 - CN-282-00,16,ANNUAL_ESCALATION,1,37.64,37.64,37.64,,5
